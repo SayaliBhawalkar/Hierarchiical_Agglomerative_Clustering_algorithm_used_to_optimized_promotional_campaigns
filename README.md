@@ -1,4 +1,5 @@
 Problem statement
+
 You are the data scientist at a retail company, and the marketing 
 team is looking to oplimize their promotional copmpaigns by targeting 
 specific customer segments. The goal is to identify distinct groups
